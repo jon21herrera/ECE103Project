@@ -1,5 +1,5 @@
 # ECE103Project
-## Uber-like app for on campus food delivery
+### Uber-like app for on campus food delivery
 Action Items
   * Create client and server side apps to be run locally
   * Use Google API to implement GPS and location tracking
